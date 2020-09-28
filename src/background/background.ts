@@ -1,3 +1,5 @@
+// Background is not needed for now
+/*
 chrome.browserAction.onClicked.addListener(() => {
   alert('you clicked?')
 })
@@ -5,3 +7,4 @@ chrome.browserAction.onClicked.addListener(() => {
 chrome.runtime.onMessage.addListener(({ greeting }) => {
   alert(`you said, "${greeting}"`)
 })
+*/
