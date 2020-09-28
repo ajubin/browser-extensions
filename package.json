@@ -1,0 +1,30 @@
+{
+  "name": "typescript-chrome-extension-starter",
+  "version": "0.1.0",
+  "description": "Get started writing a Chrome extension in TypeScript",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.116",
+    "webextension-polyfill-ts": "^0.12.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.1.0",
+    "@rollup/plugin-node-resolve": "^8.0.1",
+    "@rollup/plugin-typescript": "^3.1.1",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
+    "eslint": "7.1.0",
+    "eslint-plugin-jest": "^23.13.2",
+    "eslint-plugin-react": "^7.20.0",
+    "prettier": "^2.0.5",
+    "rollup": "^1.32.1",
+    "rollup-plugin-chrome-extension": "^3.0.1",
+    "rollup-plugin-empty-dir": "^1.0.4",
+    "tslib": "^2.0.0",
+    "typescript": "^3.7.4"
+  }
+}

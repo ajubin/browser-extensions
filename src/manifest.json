@@ -1,0 +1,15 @@
+{
+  "background": {
+    "persistent": false,
+    "scripts": ["background/background.ts"]
+  },
+  "browser_action": {},
+  "content_scripts": [
+    {
+      "js": ["content-script/content-script.ts"],
+      "matches": ["http://*/*", "https://*/*"],
+      "run_at": "document_idle"
+    }
+  ],
+  "manifest_version": 2
+}
