@@ -4,7 +4,9 @@
   "description": "Get started writing a Chrome extension in TypeScript",
   "scripts": {
     "build": "rollup -c",
-    "start": "rollup -c -w"
+    "start": "rollup -c -w",
+    "lint": "eslint",
+    "ci": "yarn eslint && yarn build"
   },
   "dependencies": {
     "@types/chrome": "0.0.116",
