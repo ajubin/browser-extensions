@@ -12,11 +12,16 @@
         "content-script/content-script.ts"
       ],
       "matches": [
+        "https://gitlab.com/*",
         "https://gitlab.com/*/commits/*",
         "https://gitlab.com/*/commits"
       ],
       "run_at": "document_idle"
     }
+  ],
+  "permissions": [
+    "activeTab",
+    "tabs"
   ],
   "manifest_version": 2
 }
