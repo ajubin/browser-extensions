@@ -9,7 +9,7 @@
     "ci": "yarn eslint && yarn build"
   },
   "dependencies": {
-    "@types/chrome": "0.0.116",
+    "@types/chrome": "0.0.125",
     "jquery": "3.5.1",
     "webextension-polyfill-ts": "0.12.0"
   },
