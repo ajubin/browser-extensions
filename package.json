@@ -6,7 +6,8 @@
     "build": "rollup -c",
     "start": "rollup -c -w",
     "lint": "eslint",
-    "ci": "yarn eslint && yarn build"
+    "types": "tsc",
+    "ci": "yarn eslint && yarn types && yarn build"
   },
   "dependencies": {
     "@types/chrome": "0.0.125",
