@@ -19,7 +19,7 @@
     "@rollup/plugin-commonjs": "15.1.0",
     "@rollup/plugin-node-resolve": "10.0.0",
     "@rollup/plugin-typescript": "3.1.1",
-    "@types/jquery": "3.5.3",
+    "@types/jquery": "3.5.4",
     "@typescript-eslint/eslint-plugin": "4.5.0",
     "@typescript-eslint/parser": "4.5.0",
     "eslint": "7.12.1",
