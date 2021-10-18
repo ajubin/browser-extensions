@@ -1780,17 +1780,17 @@ v8-compile-cache@^2.0.3:
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.1.1.tgz#54bc3cdd43317bca91e35dcaf305b1a7237de745"
   integrity sha512-8OQ9CL+VWyt3JStj7HX7/ciTL2V3Rl1Wf5OL+SNTm0yK1KvtReVulksyeRnCANHHuUxHlQig+JJDlUhBt1NQDQ==
 
-webextension-polyfill-ts@0.21.0:
-  version "0.21.0"
-  resolved "https://registry.yarnpkg.com/webextension-polyfill-ts/-/webextension-polyfill-ts-0.21.0.tgz#de07984177b585d12e7189abfab9fb1e3fbfa048"
-  integrity sha512-x1Bbr4XVYcIUIQRNWulWHBIgKTJOhzfkcaaVraTOlvVqYiIz+pMAamrK6XKnOlWNZEybDa2DkZgidpriPSXFGw==
+webextension-polyfill-ts@0.26.0:
+  version "0.26.0"
+  resolved "https://registry.yarnpkg.com/webextension-polyfill-ts/-/webextension-polyfill-ts-0.26.0.tgz#80b7063ddaf99abaa1ca73aad0cec09f306612d3"
+  integrity sha512-XEFL+aYVEsm/d4RajVwP75g56c/w2aSHnPwgtUv8/nCzbLNSzRQIix6aj1xqFkA5yr7OIDkk3OD/QTnPp8ThYA==
   dependencies:
-    webextension-polyfill "^0.6.0"
+    webextension-polyfill "^0.8.0"
 
-webextension-polyfill@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/webextension-polyfill/-/webextension-polyfill-0.6.0.tgz#1afd925f3274a0d4848083579b9c0b649a5c6763"
-  integrity sha512-PlYwiX8e4bNZrEeBFxbFFsLtm0SMPxJliLTGdNCA0Bq2XkWrAn2ejUd+89vZm+8BnfFB1BclJyCz3iKsm2atNg==
+webextension-polyfill@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/webextension-polyfill/-/webextension-polyfill-0.8.0.tgz#f80e9f4b7f81820c420abd6ffbebfa838c60e041"
+  integrity sha512-a19+DzlT6Kp9/UI+mF9XQopeZ+n2ussjhxHJ4/pmIGge9ijCDz7Gn93mNnjpZAk95T4Tae8iHZ6sSf869txqiQ==
 
 which@^2.0.1:
   version "2.0.2"
