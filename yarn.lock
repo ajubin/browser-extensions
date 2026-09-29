@@ -102,10 +102,10 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@types/chrome@0.0.126":
-  version "0.0.126"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.126.tgz#f9f3436712f0c7c12ea9798abc9b95575ad7b23a"
-  integrity sha512-191z7uoyfbGU+z7/m45j9XbWugWqVHVPMM4hJV5cZ+3YzGCT9wFjMUHO3Wr3Xvo8aVodvRNu28u7lvEaAnfbzg==
+"@types/chrome@0.3.4":
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.3.4.tgz#eaf12622ad595611cae33d3ab7fcf00ea9f3630a"
+  integrity sha512-dcySM5R3WAUVYFjylu6tvI4D03hPKjgAqk+tKZ/tm/vxL4mLgbnSsOEQ3J7V99qP/U3Oo9IORstJLmX2hPaDlA==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
